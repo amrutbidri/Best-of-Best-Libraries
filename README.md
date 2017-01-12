@@ -7,6 +7,14 @@ Developed by Mike Penz
 
 The flexible, easy to use, all in one drawer library for your Android project.
 
+### Usage
+
+```gradle
+compile('com.mikepenz:materialdrawer:5.8.1@aar') {
+	transitive = true
+}
+```
+
 https://github.com/mikepenz/MaterialDrawer or http://mikepenz.github.io/MaterialDrawer/
 
 
@@ -16,7 +24,7 @@ Developed by Paolo Rotolo
 
 Make a cool intro for your Android app.
 
-### Basic usage
+### Usage
 
 Add this to your **build.gradle**:
 
