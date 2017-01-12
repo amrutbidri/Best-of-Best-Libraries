@@ -15,7 +15,7 @@ compile('com.mikepenz:materialdrawer:5.8.1@aar') {
 }
 ```
 
-https://github.com/mikepenz/MaterialDrawer or http://mikepenz.github.io/MaterialDrawer/
+[Material Drawer (Github)](https://github.com/mikepenz/MaterialDrawer) or [Material Drawer (Project)](http://mikepenz.github.io/MaterialDrawer/)
 
 
 ## 2. App Intro or Tutorial for introduction of your app through Tutorial screens at the first time app starts (minSDK 14)
@@ -38,4 +38,4 @@ dependencies {
 }
 ```
 
-https://github.com/apl-devs/AppIntro
+[App Intro (Github)](https://github.com/apl-devs/AppIntro)
