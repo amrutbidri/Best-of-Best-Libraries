@@ -12,7 +12,7 @@ https://github.com/mikepenz/MaterialDrawer or http://mikepenz.github.io/Material
 
 # 2. App Intro or Tutorial for introduction of your app through Tutorial screens at the first time app starts (minSDK 14)
 
-Developed by Andrew Quebe
+Developed by Paolo Rotolo
 
 Make a cool intro for your Android app.
 
